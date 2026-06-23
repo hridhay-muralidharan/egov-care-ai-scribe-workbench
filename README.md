@@ -1,2 +1,2 @@
 # egov-care-ai-scribe-workbench
-Prototype of a copilot to build AI workflows at eGov
+CARE AI-Scribe workflow model workbench for product problem-space modeling
